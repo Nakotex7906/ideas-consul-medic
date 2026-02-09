@@ -1,0 +1,5 @@
+{
+  "name": "MedScribe AI",
+  "description": "Plataforma de IA que graba, transcribe y genera anamnesis automáticas de consultas médicas, organizando audio y resumen en el historial de cada paciente.",
+  "requestFramePermissions": []
+}
